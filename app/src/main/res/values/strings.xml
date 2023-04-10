@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">aplicativo 11</string>
+    <string name="Login">Login</string>
+    <string name="Senha">Senha</string>
+    <string name="Entrar">Entrar</string>
+    <string name="Dados">Salvar dados</string>
+    <string name="Cadastrar">Cadastrar</string>
+</resources>
+
